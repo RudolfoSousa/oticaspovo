@@ -8,7 +8,6 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -18,3 +17,4 @@
 </head>
 
 <body>
+<?php get_template_part('includes/navbar'); ?>
